@@ -9,13 +9,19 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/neric-joel/dsa_practice/tree/master/0217-contains-duplicate) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/neric-joel/dsa_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/neric-joel/dsa_practice/tree/master/0217-contains-duplicate) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/neric-joel/dsa_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/neric-joel/dsa_practice/tree/master/3242-count-elements-with-maximum-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/neric-joel/dsa_practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
