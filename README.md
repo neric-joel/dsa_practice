@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/neric-joel/dsa_practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/neric-joel/dsa_practice/tree/master/0217-contains-duplicate) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/neric-joel/dsa_practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/neric-joel/dsa_practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/neric-joel/dsa_practice/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/neric-joel/dsa_practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
