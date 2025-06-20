@@ -4,8 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count=Counter(nums)
-        k=len(nums)//2
-        for key,value in count.items():
-            if value>k:
-                return key
+        count=0
+        candidate=None
+        for num in nums:
+            if count==0:
+                candidate=num
+                count+=1
+            elif num==candidate:
+                count+=1
+            else: #if num!=candidate
+                count-=1
+        return candidate
