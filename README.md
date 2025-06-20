@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/neric-joel/dsa_practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/neric-joel/dsa_practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/neric-joel/dsa_practice/tree/master/0217-contains-duplicate) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/neric-joel/dsa_practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -25,9 +26,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/neric-joel/dsa_practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/neric-joel/dsa_practice/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/neric-joel/dsa_practice/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/neric-joel/dsa_practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
